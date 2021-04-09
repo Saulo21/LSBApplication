@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LSB Application</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="repete_password">Repete password</string>
+    <string name="accept">Accept</string>
 </resources>

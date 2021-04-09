@@ -99,8 +99,8 @@
         android:id="@+id/imageView11"
         android:layout_width="38dp"
         android:layout_height="40dp"
-        android:layout_marginStart="40dp"
-        android:layout_marginLeft="40dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
         app:layout_constraintStart_toEndOf="@+id/imageView9"
         app:srcCompat="@android:drawable/ic_dialog_dialer"
         tools:layout_editor_absoluteY="558dp" />
